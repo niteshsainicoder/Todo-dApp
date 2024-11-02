@@ -3,7 +3,7 @@
 ## Topics
 
 - [About](#about)
- - [Features](#features)
+- [Features](#features)
 - [Demo-Video](#demo-video)
 
 ## About
@@ -23,3 +23,8 @@ and also please left a start here if you come here. I am very eager to add many 
 I know😜 these feature's are same as ordinary todo app but they show i am able to read data from blockchain and also write data on blockchain ☺️ .
 
 ## Demo Video
+
+
+https://github.com/user-attachments/assets/89b0c4a0-337c-427f-8750-b9fd4e467436
+
+
