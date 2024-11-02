@@ -12,10 +12,6 @@ declare global {
   }
 }
 
-// Set up provider for Sepolia network
-//  provider = new ethers.JsonRpcProvider(
-//   "https://sepolia.infura.io/v3/4e05672f1a724e6dad2dfa60dedd4896"
-// );
 
 // Function to get contract instance for writing data (requires signer)
 export const connectWallet = async () => {
